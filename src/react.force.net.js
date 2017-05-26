@@ -29,7 +29,7 @@
 var { SalesforceNetReactBridge, SFNetReactBridge } = require('react-native').NativeModules;
 var forceCommon = require('./react.force.common.js');
 
-var apiVersion = 'v39.0';
+var apiVersion = 'v40.0';
 
 /**
  * Set apiVersion to be used
